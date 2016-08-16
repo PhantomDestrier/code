@@ -1,11 +1,11 @@
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-int main()
+inline int print()
 {
 	string a;
 	getline(cin,a);
-	cout<<"Hello"<<" "<<a;
+	cout<<"Hello"<<" "<<a<<"!";
 	return 0;
 }
 
